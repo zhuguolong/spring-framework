@@ -1,9 +1,5 @@
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
 
-## Spring-Framework源码下载
-
-Spring-Framework源码各版本下载：https://github.com/spring-projects/spring-framework/tags
-
 This is the home of the Spring Framework, the foundation for all
 [Spring projects](https://spring.io/projects). Together the Spring Framework and the family of Spring projects make up what we call "Spring". 
 
@@ -11,6 +7,10 @@ Spring provides everything you need beyond the Java language to create enterpris
 applications in a wide range of scenarios and architectures. Please read the
 [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction)
 section in the reference for a more complete introduction.
+
+## Spring-Framework源码下载
+
+Spring-Framework源码各版本下载：https://github.com/spring-projects/spring-framework/tags
 
 ## Code of Conduct
 
